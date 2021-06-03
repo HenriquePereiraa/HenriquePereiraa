@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## I'm Henrique Pereira
 
-##### - I'm live in :brazil:, northeast 🌅😎
+##### - I'm live in Brazil, northeast 🌅:brazil:😎
 ##### - I'm computer engineering student 💻
 
 ## My Skills
@@ -13,7 +13,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="VueJs" width="40" height="40" style="max-width:100%;"></img>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriquePereiraa&show_icons=true&theme=radical)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenriquePereiraa&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
