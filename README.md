@@ -3,6 +3,7 @@
 
 ##### - I'm live in Brazil, northeast 🌅:brazil:😎
 ##### - I'm computer engineering student 💻
+##### - Web developer 💻 🤘
 
 ## My Skills
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="max-width:100%;"></img>
