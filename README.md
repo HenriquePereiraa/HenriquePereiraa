@@ -5,6 +5,11 @@
 ##### - I'm computer engineering student 💻
 ##### - Web developer 💻 🤘
 
+## Connect with me:
+<a href="https://www.linkedin.com/feed/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40" height="40" style="max-width:100%;"></img>
+</a>
+
 ## My Skills
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodeJS" width="40" height="40" style="max-width:100%;"></img>
