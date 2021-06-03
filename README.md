@@ -6,7 +6,7 @@
 ##### - Web developer 💻 🤘
 
 ## Connect with me:
-<a href="https://www.linkedin.com/feed/">
+<a href="https://www.linkedin.com/in/henrique-pereira-27743a122/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40" height="40" style="max-width:100%;"></img>
 </a>
 
